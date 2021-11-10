@@ -1,7 +1,6 @@
 {
-  "name": "php",
+  "name": "php_nginx",
   "version": "1.0.0",
-  "main": "index.js",
   "author": "Felipe Borges <lipex360@gmail.com>",
   "license": "MIT"
 }
